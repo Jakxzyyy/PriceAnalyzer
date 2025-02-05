@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\priceanalyzer\\priceanalyzer\\resources\\sites.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\resources\\sites.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\priceanalyzer\\priceanalyzer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\priceanalyzer\\priceanalyzer\\manager\\browsermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\manager\\browsermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\priceanalyzer\\priceanalyzer\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\priceanalyzer\\priceanalyzer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\priceanalyzer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\priceanalyzer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65A0770-9727-4B1D-B41D-EFA387B707D1}|PriceAnalyzer\\PriceAnalyzer.csproj|solutionrelative:priceanalyzer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\Models\\Product.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Models\\Product.cs",
+              "RelativeToolTip": "PriceAnalyzer\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:23:13.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sites.txt",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Resources\\Sites.txt",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\Resources\\Sites.txt",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Resources\\Sites.txt",
+              "RelativeToolTip": "PriceAnalyzer\\Resources\\Sites.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-05T15:05:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "PriceAnalyzer\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:45:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\Pages\\MainPage.xaml",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "PriceAnalyzer\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-04T23:59:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrowserManager.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Manager\\BrowserManager.cs",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\Manager\\BrowserManager.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\Manager\\BrowserManager.cs",
+              "RelativeToolTip": "PriceAnalyzer\\Manager\\BrowserManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:26:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\MainWindow.xaml",
+              "RelativeToolTip": "PriceAnalyzer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T10:34:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PriceAnalyzer\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\PriceAnalyzer\\PriceAnalyzer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PriceAnalyzer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:34:40.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
