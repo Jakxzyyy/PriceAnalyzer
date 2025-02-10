@@ -25,7 +25,6 @@ namespace PriceAnalyzer.Pages
         {
             InitializeComponent();
             BrowserManager manager = new BrowserManager();
-            var listUrls = manager.GetUrls();
         }
     }
 }

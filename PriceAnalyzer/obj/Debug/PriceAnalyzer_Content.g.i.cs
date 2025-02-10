@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/sites.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("selenium-manager")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("selenium-manager")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("selenium-manager.exe")]
 
 

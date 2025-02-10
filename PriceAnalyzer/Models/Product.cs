@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PriceAnalyzer.Models
 {
-    internal class Product
+    public class Product
     {
         public float Price { get; set; }
         public string Name { get; set; }
